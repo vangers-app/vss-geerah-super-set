@@ -37,7 +37,7 @@ export const init: InitFn = () => {
         mapping[id].push(next);
     }
 
-    const assets = vss.getScriptsFolder() + "/../mods/music/";
+    const assets = vss.getScriptsFolder() + "/vss-music/";
 
     vss.addQuantListener("file_open", (payload) => {
         const { file, flags } = payload;

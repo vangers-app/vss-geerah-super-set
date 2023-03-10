@@ -1,0 +1,39 @@
+{
+  "addons": [
+    {
+      "name": "Флексик: уникальный дар униванга. Владелец может слышать мелодии супа существ.",
+      "enabled": true,
+      "id": "vss-music"
+    },
+    {
+      "name": "Окулус: полноэкранный режим игры",
+      "enabled": true,
+      "id": "vss-fullscreen-game"
+    },
+    {
+      "name": "VNM: новые модели (hipoly)",
+      "enabled": true,
+      "id": "vss-vnm"
+    },
+    {
+      "name": "VFV: воксели в вангерах",
+      "enabled": false,
+      "id": "vss-vfv"
+    },
+    {
+      "name": "Tankers: мехосы - танки, используй ручник для управления",
+      "enabled": false,
+      "id": "vss-tankers"
+    },
+    {
+      "name": "Testo: школа вождения",
+      "enabled": false,
+      "id": "vss-jump-to-testo"
+    },
+    {
+      "name": "Безинерционная камера мехоса",
+      "enabled": false,
+      "id": "vss-camera"
+    }
+  ]
+}
