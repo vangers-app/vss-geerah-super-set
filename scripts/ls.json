@@ -2,8 +2,13 @@
   "addons": [
     {
       "name": "Флексик: уникальный дар униванга. Владелец может слышать мелодии супа существ.",
-      "enabled": true,
+      "enabled": false,
       "id": "vss-music"
+    },
+    {
+      "name": "Vandals League",
+      "enabled": false,
+      "id": "vss-jump-to-vandals-league"
     },
     {
       "name": "Окулус: полноэкранный режим игры",
@@ -12,7 +17,7 @@
     },
     {
       "name": "VNM: новые модели (hipoly)",
-      "enabled": true,
+      "enabled": false,
       "id": "vss-vnm"
     },
     {
