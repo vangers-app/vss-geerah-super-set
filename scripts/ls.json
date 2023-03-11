@@ -6,13 +6,18 @@
       "id": "vss-music"
     },
     {
-      "name": "Окулус: полноэкранный режим игры",
+      "name": "Vandals League",
       "enabled": true,
+      "id": "vss-jump-to-vandals-league"
+    },
+    {
+      "name": "Окулус: полноэкранный режим игры",
+      "enabled": false,
       "id": "vss-fullscreen-game"
     },
     {
       "name": "VNM: новые модели (hipoly)",
-      "enabled": true,
+      "enabled": false,
       "id": "vss-vnm"
     },
     {
