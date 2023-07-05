@@ -2,7 +2,7 @@
 
 Этот репозиторий используется для сборки мод менеджера [mini-vaneger](https://github.com/vangers-app/vss/releases).
 
-Последний релиз модов можно найти в разделе [Релизы](https://github.com/vangers-app/vss-geerah-super-set/releases)
+Последний релиз модов можно найти в разделе [релизы](https://github.com/vangers-app/vss-geerah-super-set/releases).
 
 ## Сборка
 
