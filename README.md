@@ -14,7 +14,7 @@
 6. Скопируйте `mini-vaneger` и `vss.exe` в корневую директорию
 7. Проверяйте свой плагин используя `mini-vaneger`
 
-Если вы разарабатываете [vss](https://github.com/vangers-app/vss), тогда достаточно запустить его с флагом ```./vangres -vss <path-to-scripts>```
+**ВАЖНО:** Если вы разарабатываете [vss](https://github.com/vangers-app/vss), тогда достаточно запустить его с флагом ```./vangers -vss <path-to-scripts>```
 
 ## Публикация
 
